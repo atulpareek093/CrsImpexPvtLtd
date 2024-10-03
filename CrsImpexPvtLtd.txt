@@ -1,0 +1,14 @@
+Local WordPress Setup for CrsImpexPvtLtd:
+
+    Company Name: CrsImpexPvtLtd
+    Database Name: crsimpex_wpdb
+    Database Username: local - "root" - prod  crsimpex_user
+    Database Password: local - ""  prod- CrsImpex@WP#4568!
+    Table Prefix: wp_crsimpex_
+
+Purpose: Local development environment.
+
+WordPress Admin Login:
+
+    Username: admin_crsimpex
+    Password: CrsImpex@WP#4568!
